@@ -1,3 +1,7 @@
-some text1
+<<<<<<< HEAD
+some text
+=======
+some text
+>>>>>>> branch1
 some text
 some text
